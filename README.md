@@ -4,5 +4,8 @@
 * Arduino Board
 * ESP8266 Board
 * ESP 32 Board
+  
+<hr/>
 
 # Steps to Setup
+* Install Arduino from [Arduino Downloads] (https://www.arduino.cc/en/Main/OldSoftwareReleases#00xx)
