@@ -1,5 +1,5 @@
 # IOT Dev Environment Setup
-![alt text](http://url/to/img.png)
+![Arduino](https://github.com/khanasif1/IOT-Dev-Environment-Setup/blob/main/images/Banner7_Arduino.png)
 ### This repository has steps on configuring the Arduino IDE environment, for building solution with :
 * Arduino Board
 * ESP8266 Board
