@@ -13,4 +13,4 @@
 ![Arduino](https://github.com/khanasif1/IOT-Dev-Environment-Setup/blob/main/images/ESP8266JsonUrl.PNG)
 * USing Tool--> Board Manager install ESP8266 board
 ![Arduino](https://github.com/khanasif1/IOT-Dev-Environment-Setup/blob/main/images/AddBoard.PNG)
-* sd
+* Verify the ESP8266 baord version - 2.5.0 the code sample I have build and library references works perfect with this version.
