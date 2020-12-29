@@ -9,6 +9,8 @@
 
 # Steps to Setup
 * Install Arduino from [Arduino Downloads](https://www.arduino.cc/en/Main/OldSoftwareReleases#00xx) I used V-1.8.8 Windows
+`http://arduino.esp8266.com/stable/package_esp8266com_index.json`
+
 * Under Preferences-->Settings updated Board Manager URL 
 ![Arduino](https://github.com/khanasif1/IOT-Dev-Environment-Setup/blob/main/images/ESP8266JsonUrl.PNG)
 
@@ -21,4 +23,4 @@
 * Copy the [library folder](https://github.com/khanasif1/IOT-Dev-Environment-Setup/blob/main/images/CopyLibraryFoldertoThis.PNG) to your Arduino libraries folder location.
 ![Arduino](https://github.com/khanasif1/IOT-Dev-Environment-Setup/blob/main/images/CopyLibraryFoldertoThis.PNG)
 
-* sd
+* You are all set to build solution for Arduino or ESP8266 board
