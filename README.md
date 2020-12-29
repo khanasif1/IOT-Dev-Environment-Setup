@@ -18,4 +18,4 @@
 * Verify the ESP8266 baord version - 2.5.0 the code sample I have build and library references works perfect with this version.
 ![Arduino](https://github.com/khanasif1/IOT-Dev-Environment-Setup/blob/main/images/Esp8266BoardVersion.PNG)
 
-* sds
+* Copy the [library folder](https://github.com/khanasif1/IOT-Dev-Environment-Setup/blob/main/images/CopyLibraryFoldertoThis.PNG) to your Arduino libraries folder location
