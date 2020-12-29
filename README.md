@@ -8,4 +8,5 @@
 <hr/>
 
 # Steps to Setup
-* Install Arduino from [Arduino Downloads] (https://www.arduino.cc/en/Main/OldSoftwareReleases#00xx)
+* Install Arduino from [Arduino Downloads!] (https://www.arduino.cc/en/Main/OldSoftwareReleases#00xx)
+* 
