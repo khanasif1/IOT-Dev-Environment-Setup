@@ -23,4 +23,4 @@
 * Copy the [library folder](https://github.com/khanasif1/IOT-Dev-Environment-Setup/blob/main/images/CopyLibraryFoldertoThis.PNG) to your Arduino libraries folder location.
 ![Arduino](https://github.com/khanasif1/IOT-Dev-Environment-Setup/blob/main/images/CopyLibraryFoldertoThis.PNG)
 
-* You are all set to build solution for Arduino or ESP8266 board
+* You are all set to build solution for Arduino or ESP8266 board :computer:
