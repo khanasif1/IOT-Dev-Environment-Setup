@@ -9,4 +9,8 @@
 
 # Steps to Setup
 * Install Arduino from [Arduino Downloads](https://www.arduino.cc/en/Main/OldSoftwareReleases#00xx) I used V-1.8.8 Windows
-* 
+* Under Preferences-->Settings updated Board Manager URL 
+![Arduino](https://github.com/khanasif1/IOT-Dev-Environment-Setup/blob/main/images/ESP8266JsonUrl.PNG)
+* USing Tool--> Board Manager install ESP8266 board
+![Arduino](https://github.com/khanasif1/IOT-Dev-Environment-Setup/blob/main/images/AddBoard.PNG)
+* sd
